@@ -1,0 +1,6 @@
+Logic exam
+1. answer: 2 - when all the side boxes are combined it will form the middle image.
+2. answer: 2 - each shape increments.
+3. answer: 3 - First set both in the middle, it intersects in the middle. Second set both on each side, interesects from sides, Third set interesects on the side so both image should be on the sides.
+4. answer: 4 - line moves up, circle moves right and square moves left. And each movement changes the color of circle and square.
+5. answer: 5 - square goes right and circle goes up.
